@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkhAli.Api", "MerkhAli.Api\MerkhAli.Api.csproj", "{B7469C16-1D1C-4FB5-BF02-BEB15B7E66BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkhAli.Data", "MerkhAli.Data\MerkhAli.Data.csproj", "{DEBD5E9B-D21B-4036-BB55-F8AD3E900A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkhAli.Domain", "MerkhAli.Domain\MerkhAli.Domain.csproj", "{2FA9AB93-75FD-45B1-901D-5A193D933591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkhAli.Service", "MerkhAli.Service\MerkhAli.Service.csproj", "{D334C131-2F6A-4034-A6E0-F217FB35338A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7469C16-1D1C-4FB5-BF02-BEB15B7E66BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7469C16-1D1C-4FB5-BF02-BEB15B7E66BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7469C16-1D1C-4FB5-BF02-BEB15B7E66BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7469C16-1D1C-4FB5-BF02-BEB15B7E66BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBD5E9B-D21B-4036-BB55-F8AD3E900A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBD5E9B-D21B-4036-BB55-F8AD3E900A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBD5E9B-D21B-4036-BB55-F8AD3E900A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBD5E9B-D21B-4036-BB55-F8AD3E900A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA9AB93-75FD-45B1-901D-5A193D933591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA9AB93-75FD-45B1-901D-5A193D933591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA9AB93-75FD-45B1-901D-5A193D933591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA9AB93-75FD-45B1-901D-5A193D933591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D334C131-2F6A-4034-A6E0-F217FB35338A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D334C131-2F6A-4034-A6E0-F217FB35338A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D334C131-2F6A-4034-A6E0-F217FB35338A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D334C131-2F6A-4034-A6E0-F217FB35338A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
